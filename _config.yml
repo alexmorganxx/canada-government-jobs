@@ -1,0 +1,16 @@
+title: Highest-Paying Government Jobs in Canada
+description: The 12 highest-paying government jobs in Canada in 2026, with verified salaries, pay grids, pensions, and the real barriers to entry for each role — from RCMP and CBSA officers to air traffic controllers.
+url: https://alexmorganxx.github.io
+baseurl: /canada-government-jobs
+author: Alex Morgan
+lang: en_US
+twitter:
+  card: summary_large_image
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

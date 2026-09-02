@@ -255,5 +255,3 @@ Many public service roles are open to permanent residents, and the RCMP accepts 
 ---
 
 *Alex Morgan writes about recruitment and hiring in Canadian law enforcement and the federal public service, with a focus on helping applicants understand selection processes before they commit to them.*
-
-*Salary figures verified September 2026. This is an independent career research resource and is not affiliated with any government agency or law enforcement organization.*
